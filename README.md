@@ -1,6 +1,6 @@
 # How to use Word Sniper
 ## Step by Step
-1. Click on this [Shiven's Hunter](https://shivenpatel399.github.io/WordSniper/)
+1. Click on this [Shiven's Hunter](https://shivpat09.github.io/WordSniper/)
 2. Start Word Hunt.
 2. Input your letters into the sniper.
 3. Click on a generated word to show it's path on the board.
